@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 96px;
+  position: absolute;
+  width: 1366px;
+  height: 7219px;
+  left: 0px;
+  top: 97px;
+}
+
+.margem{
+  padding: 32px 48px;
+}
+
+.lenco{
+  background: #F4DCC3;
+}
+
+.pulos{
+  background:#E8E7C1;
+}
+
+.pes{
+  background:#F4DDD6;
+}
+
+.alto{
+  margin-top: 96px;
+}
+
+p{
+  width: 595px;
+  height: 168px;
+  font:400 16px 'Raleway' , Arial, helvetica, sans-serif;
+  line-height: 152%;
+  letter-spacing: 0.04em;
+  color: #333;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.familia{
+  width: 1800px;
+  height: 500px;
+}
+
+.conheca{
+  margin-top: 40px;
+}
+
+.madeira{
+  margin-top: 96px;
+  height: 100px;
+}
+
+.imag{
+  float: right;
+}
+
+.sorvete{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 64px;
+  width: 1136px;
+  height: 362px;
+}
+
+.sorvete p{
+  width: 547px;
+  height: 120px;
+  color: #4D4D4D;
+}
+
+.receita{
+  width: 516px;
+  height: 362px;
+}
+
+.flores{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 88px;
+  gap: 96px;
+  width: 1136px;
+  height: 378px;
+}
+
+.laptop{
+  width: 1900px;
+  margin-top: 96px;
+}
